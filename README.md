@@ -37,3 +37,4 @@ Please ensure that your code adheres to the project's coding conventions and tha
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
